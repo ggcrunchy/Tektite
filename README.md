@@ -12,7 +12,7 @@ to date with respect to 5.1.
 
 At the moment, most of the JIT stuff is in my [UFO](https://github.com/ggcrunchy/ufo) fork.
 
-There's a lot of stuff in [TacoShell](https://github.com/ggcrunchy/TacoShell) and [Marabunta](https://github.com/ggcrunchy/Marabunta)
+There's a lot of stuff in [TacoShell](https://github.com/XibalbaStudios/TacoShell) and [Marabunta](https://github.com/XibalbaStudios/Marabunta)
 that could stand to be folded in, but generally anything that isn't in the previously mentioned repos in updated form hasn't been
 touched, since lately I've either been trying to cooperate with another framework or not able to use Lua at all. :cry:
 
